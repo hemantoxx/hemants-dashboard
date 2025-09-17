@@ -2,7 +2,7 @@
 
 
 
-This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
+
 
 Work done on it other than the tutorial:-
 - Removed unused CSS.
